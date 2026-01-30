@@ -74,3 +74,17 @@
 -Protection and switch Gear
 -Core Course Project-IV 
 -NCC Credit Course Level3
+
+## 7sem
+### Subjects
+
+-  Electrical Energy Generation, Utilization and Conservation
+-  Principles of Management
+-  Professional Elective - V
+- Professional Elective - VI
+-  Mini Project
+
+### 8 sem
+### Subjects
+
+- Project Work
