@@ -53,3 +53,24 @@
 - Core Course Project-II
 - Employability Enhancement Skills-IV
 - Mandatory Course-II
+
+## 5th sem
+### Subjects
+- Professional Elective-I
+- Professional Elective-II 
+-Embedded System Design 
+- Special Electrical Machines
+- Power System Analysis
+- Power System Analysis
+-Employability Enhancement Skills-V
+
+## 6th sem
+### Subjects
+-High Voltage Engineering
+-Professional Elective-III
+-Professional Elective-IV
+-Open Elective – I 
+-Power System Operation and Control
+-Protection and switch Gear
+-Core Course Project-IV 
+-NCC Credit Course Level3
